@@ -36,7 +36,7 @@ I am a Computer Science and Engineering student focused on building scalable, us
 * **Founder, CampusXcelerate:** Leading a student initiative dedicated to promoting collaboration, technical learning, and innovation.
 * **Campus Mantri, GeeksforGeeks:** Actively fostering a coding culture on campus.
 * **Former Campus Ambassador, E-Cell IIT Bombay:** Promoted entrepreneurial initiatives and events.
-* 
+ 
 ### 📜 Continuous Learning & Certifications
 * **Programs:** McKinsey Forward Professional Growth Program
 * **Certifications:** * Career Essentials in Generative AI (Microsoft & LinkedIn)

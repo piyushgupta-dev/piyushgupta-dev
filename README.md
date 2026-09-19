@@ -226,7 +226,7 @@ AI-powered smart traffic management platform designed to improve urban mobility 
 | | |
 |---|---|
 | 🏆 | **Top 100 Contributor (ECSOC)** & active open-source contributor across ECSOC, GSSoC, SSCoC, and NSoC |
-| 🥈 | **Top 100 Finalist**, out of 1,000+ teams — Escape Da Vinci Hackathon, CGC University Mohali |
+| 🥈 | **Top 100 Finalist**, out of **1,000+ teams** — Escape Da Vinci Hackathon, CGC University Mohali |
 | 🥈 | **Finalist** — HaXplore Hackathon, IIT (BHU) |
 | 🚀 | **Internal Round Qualifier** — Smart India Hackathon 2024 & 2025 |
 

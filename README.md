@@ -314,6 +314,6 @@ AI-powered smart traffic management platform designed to improve urban mobility 
 <a href="https://github.com/piyushgupta-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
-<sub>Thanks for scrolling all the way down — now go build something. 🚀</sub>
+<sub>Thanks for scrolling the way down — now go build something. 🚀</sub>
 
 </div>
